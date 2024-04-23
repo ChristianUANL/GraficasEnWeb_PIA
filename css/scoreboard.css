@@ -1,0 +1,52 @@
+
+.records-box{
+    background-image: url(../assets/img/backgrounds/bg-general.png);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 48%;
+    /* min-height: 100%; */
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+}
+
+.row{
+    width: 40rem;
+}
+
+/* 
+.fb-share{
+    font-size: 1rem;
+} */
+
+.logo{
+    width: 20rem;
+}
+
+.records-title {
+    width: 12rem;
+}
+
+.rank-title{
+    width: 9rem;
+    height: 4rem;
+}
+
+.player-title {
+    width: 14rem;
+    height: 4rem;
+}
+
+.score-title{
+    width: 12rem;
+    height: 4rem;
+}
+
+td span {
+    color: #f2f2f2;
+    font-size: 1.7rem;
+}

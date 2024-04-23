@@ -1,0 +1,24 @@
+newmtl green_kitchen8:FloorSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 34.00
+newmtl green_kitchen8:FridgeSG
+illum 4
+Kd 0.66 1.00 0.19
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.17 0.25 0.05
+Ns 23.00
+newmtl green_kitchen8:FridgeSG2
+illum 4
+Kd 0.44 0.44 0.44
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 23.00

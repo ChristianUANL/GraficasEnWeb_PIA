@@ -1,0 +1,137 @@
+
+.logo{
+    width: 20rem;
+}
+
+.settings-box{
+    background-image: url(../assets/img/backgrounds/bg-general.png);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 130%;
+    height: 670%;
+    /* min-height: 100%; */
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+}
+
+.settings-title {
+    width: 20rem;
+    margin-bottom: 2.8rem;
+    margin-top: 6rem;
+}
+
+.sound-box{
+    background-image: url(../assets/img/backgrounds/bg-general.png);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 85%;
+    height: 4rem;
+    margin-left: 2.5rem;
+    /* min-height: 100%; */
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+}
+
+span {
+    color: black;
+    font-size: 3rem;
+}
+
+.input-range-bg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 16rem;
+    height: 5rem;
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    text-decoration: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    border: 0;
+    background-image: url(../assets/img/components/button.png);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+    
+    margin-left: 2.5rem;
+    height: 6rem;
+}
+
+
+.input-range {
+    width: 70%;
+    height:1rem;
+    border-radius: 5px;
+    outline: none;
+}
+
+.donut {
+    -webkit-appearance: none;
+    appearance: inherit;
+    height: 15px;
+    border-radius: 5px;  
+    background: rgb(77, 71, 71);
+    outline: none;
+    opacity: 1;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+  
+.donut::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: inherit;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%; 
+    background: rgb(0, 0, 0);
+    cursor: pointer;
+}
+  
+.donut::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: rgb(77, 71, 71);
+    cursor: pointer;
+}
+
+.cheese {
+    -webkit-appearance: none;
+    height: 15px;
+    border-radius: 5px;  
+    background: rgb(77, 71, 71);
+    outline: none;
+    opacity: 1;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+  
+.cheese::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%; 
+    background: rgb(0, 0, 0);
+    cursor: pointer;
+}
+  
+.cheese::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: rgb(0, 0, 0);
+    cursor: pointer;
+}

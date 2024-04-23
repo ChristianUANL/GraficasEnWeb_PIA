@@ -1,0 +1,242 @@
+
+/* Canvas */
+
+canvas.game-canvas {
+    border: 7px solid rgba(245,162,43,0.91);
+    /* box-shadow: 0px 0px 3px 5px rgba(245,162,43,0.91); */
+    border-radius: 20px;
+    width: 65rem;
+    height: 32rem;
+}
+
+/* End Canvas */
+
+.score-box{
+    /* background-image: url(../assets/img/backgrounds/bg-general.png); */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 15rem;
+    height: 5rem;
+    /* min-height: 100%; */
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+div.score-box span {
+    color: #f2f2f2;
+    font-size: 2rem;
+}
+
+.records-title {
+    margin-top: -45px;
+    width: 10.5rem;
+}
+
+.character-box{
+    background-image: url(../assets/img/backgrounds/circle-left-ingame.png);
+    padding-inline-start: 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 5rem;
+    height: 5rem;
+    /* min-height: 100%; */
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+}
+
+.item-box{
+    background-image: url(../assets/img/backgrounds/circle-right-ingame.png);
+    padding-inline-start: 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 5rem;
+    height: 5rem;
+    /* min-height: 100%; */
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+}
+
+.cant-item-box{
+    position: relative;
+    padding-inline-start: 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 6rem;
+    height: 6rem;
+    /* min-height: 100%; */
+    background-image: url(../assets/img/backgrounds/circle-left-ingame.png);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+    padding-top: 10%;
+}
+
+.item-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+.item-icon {
+    object-fit: contain;
+    width: 3rem;
+}
+
+.item-content span {
+    color: #f2f2f2;
+    font-size: 1.5rem;
+    padding-top: 6px;
+}
+
+.character-icon {
+    width: 4rem;
+    height: 4rem;
+    object-fit: contain;
+}
+
+.button-pause {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 8rem;
+    height: 8rem;
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    text-decoration: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    border: 0;
+    background-image: url(../assets/img/components/button-pause.png);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+}
+
+.button-pause:hover {
+    cursor: pointer;
+    background-image: url(../assets/img/components/button-pause-hover.png);
+}
+
+.button-pause:focus, .button-pause:active {
+    cursor: pointer;
+    color: #ffffffa4;
+    background-image: url(../assets/img/components/button-pause-focus.png);
+}
+
+.pause-button {
+    position: absolute;
+    top: 1rem;
+    left: 95rem;
+    width: 5rem;
+    height: 5rem;
+    outline: none;
+    border: none;
+    background-color: transparent;
+    background-image: url(../assets/img/components/button-pause.png);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+}
+
+.pause-button:hover {
+    cursor: pointer;
+    background-image: url(../assets/img/components/button-pause-hover.png);
+}
+
+.pause-button:focus {
+    cursor: pointer;
+    background-image: url(../assets/img/components/button-pause-focus.png);
+}
+
+.stats-container {
+    position: absolute;
+    left: 15%;
+    transform: translate(-50%, 35px);
+}
+
+.pause-box{
+    background-image: url(../assets/img/backgrounds/bg-general.png);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    
+    /* min-height: 100%; */
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+}
+
+.buttonPlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 6rem;
+    height: 6rem;
+    text-decoration: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    border: 0;
+    background-image: url(../assets/img/components/button-play.png);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+}
+
+.buttonPlay:hover {
+    cursor: pointer;
+    background-image: url(../assets/img/components/button-play-hover.png);
+}
+
+.buttonPlay:focus, .buttonPlay:active {
+    cursor: pointer;
+    color: #ffffffa4;
+    background-image: url(../assets/img/components/button-play-focus.png);
+}
+
+.modal-dialog, .modal-content, .modal-body {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+
+.modal-body img{
+    width: 70px;
+    height: 70px;
+    margin: 1rem 0;
+    cursor: pointer;
+}
+.btn{
+    margin: 2rem 1rem;
+}
+
+

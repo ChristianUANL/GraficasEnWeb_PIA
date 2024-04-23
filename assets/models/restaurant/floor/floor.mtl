@@ -1,0 +1,16 @@
+newmtl blackwhite_floor:FloorSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blackwhite-floor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 78.75
+newmtl floor:initialShadingGroup
+illum 4
+Kd 1.50 1.50 1.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd floor.png
+Ni 1.00

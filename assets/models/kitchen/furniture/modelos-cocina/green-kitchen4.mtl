@@ -1,0 +1,48 @@
+newmtl green_kitchen4:CounterFBXASC032cornerSG
+illum 4
+Kd 0.70 0.80 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.17 0.20 0.12
+Ns 23.00
+newmtl green_kitchen4:CounterFBXASC032cornerSG2
+illum 4
+Kd 1.00 0.68 0.45
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.17 0.11
+Ns 23.00
+newmtl green_kitchen4:CounterFBXASC032withFBXASC032sinkSG
+illum 4
+Kd 0.24 0.24 0.24
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.06 0.06
+Ns 23.00
+newmtl green_kitchen4:FloorSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 34.00
+newmtl green_kitchen4:FridgeSG
+illum 4
+Kd 0.66 1.00 0.19
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.17 0.25 0.05
+Ns 23.00
+newmtl green_kitchen4:TableSG
+illum 4
+Kd 1.00 0.53 0.23
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.13 0.06
+Ns 23.00

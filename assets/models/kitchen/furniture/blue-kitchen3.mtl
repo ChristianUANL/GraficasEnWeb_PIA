@@ -1,0 +1,17 @@
+newmtl blue_kitchen3:Cabinet_Back_AFBXASC046005SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Furniture_basecolor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl blue_kitchen3:SinkFBXASC046001SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 34.00

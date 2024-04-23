@@ -1,0 +1,16 @@
+newmtl green_floor:FloorFBXASC032tileSG
+illum 4
+Kd 0.45 0.70 0.48
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.11 0.18 0.12
+Ns 23.00
+newmtl green_floor:FloorSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 34.00

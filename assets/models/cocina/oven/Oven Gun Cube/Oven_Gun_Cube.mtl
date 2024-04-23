@@ -1,0 +1,35 @@
+newmtl acmat_0
+Kd 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd oven_gun_cube.png
+newmtl acmat_1
+Kd 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd npc_eye_light.png
+newmtl acmat_2
+Kd 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd npc_light.png
+newmtl acmat_3
+Kd 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd minigun.png
+newmtl acmat_4
+Kd 0.629506 0.445696 0.836681
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd aperture_logo_70s.png

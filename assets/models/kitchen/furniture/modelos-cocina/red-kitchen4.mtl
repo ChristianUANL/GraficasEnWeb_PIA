@@ -1,0 +1,31 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd yellow-floor.png
+Ni 1.00
+newmtl red_kitchen4:ChairFBXASC046001SG
+illum 4
+Kd 1.00 0.68 0.45
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl red_kitchen4:ChairFBXASC046001SG1
+illum 4
+Kd 1.00 0.53 0.23
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl red_kitchen4:Mug1SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl red_kitchen4:Mug1SG2
+illum 4
+Kd 0.08 0.04 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

@@ -1,0 +1,123 @@
+newmtl ChassisSG
+illum 4
+Kd 0.38 0.55 0.75
+Ka 0.38 0.55 0.75
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ChassisSG1
+illum 4
+Kd 0.97 0.95 0.85
+Ka 0.97 0.95 0.85
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ChassisSG2
+illum 4
+Kd 0.92 0.25 0.25
+Ka 0.92 0.25 0.25
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ChassisSG3
+illum 4
+Kd 0.78 0.60 0.29
+Ka 0.78 0.60 0.29
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ChassisSG4
+illum 4
+Kd 0.18 0.18 0.18
+Ka 0.18 0.18 0.18
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ChassisSG5
+illum 4
+Kd 0.54 0.54 0.54
+Ka 0.54 0.54 0.54
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ChassisSG6
+illum 4
+Kd 0.76 0.76 0.76
+Ka 0.76 0.76 0.76
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ChassisSG7
+illum 4
+Kd 0.25 0.25 0.25
+Ka 0.25 0.25 0.25
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ChassisSG8
+illum 4
+Kd 0.18 0.18 0.18
+Ka 0.18 0.18 0.18
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ChassisSG9
+illum 4
+Kd 0.44 0.44 0.44
+Ka 0.44 0.44 0.44
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ChassisSG10
+illum 4
+Kd 0.95 0.95 0.95
+Ka 0.95 0.95 0.95
+Tf 0.25 0.25 0.25
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ChassisSG11
+illum 4
+Kd 0.18 0.18 0.18
+Ka 0.18 0.18 0.18
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl greenfloor:Material_004
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Material.004_baseColor.jpg
+Ni 0.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl parking:Material_005
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Material_baseColor.jpg
+Ni 0.00
+newmtl restaurant:Material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Material_baseColor.jpg
+Ni 0.00

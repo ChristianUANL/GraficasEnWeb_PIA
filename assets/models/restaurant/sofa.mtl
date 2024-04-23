@@ -1,0 +1,8 @@
+newmtl initialShadingGroup
+illum 4
+Kd 1.70 1.70 1.70
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sofa_albedo.jpg
+bump  -bm 1 sofa_normal.png
+Ni 1.00

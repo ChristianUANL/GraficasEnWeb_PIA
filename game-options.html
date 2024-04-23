@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¡HUYE!</title>
+
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/game-options.css">
+    <link rel="shortcut icon" href="/PROYECTO_GW/assets/img/icons/logo.png" type="image/x-icon">
+</head>
+<body>
+
+    <a href="index.html"><button type="button" class="back-button"></button></a>
+    
+    <div class="full-centered-column w-100">
+        
+        <img src="assets/img/icons/logo.png" alt="Logo del videojuego" class="w-15 mb-5">
+
+        <div class="menu-box w-65">
+            
+            <form action="in-game.html" method="get" class="w-100 mb-5 step-form">
+
+                <div class="step active">
+
+                    <div class="title gamemode mb-5"></div>
+
+                    <div class="d-flex justify-content-between w-100">
+                        <div class="card-option difficulty">
+                            <a href="niveles.html"><img src="assets/img/icons/soloplayer1.png" data-option-name="game-mode" data-option-value="solo" alt="" style="object-fit: contain;"></a>
+                        </div>
+
+                        <div class="card-option difficulty">
+                            <a href="niveles.html"><img src="assets/img/icons/multiplayer2.png" data-option-name="game-mode" data-option-value="multiplayer" alt="" style="object-fit: contain;"></a>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="step">
+
+                    <div class="title character mb-5"></div>
+
+                    <div class="d-flex justify-content-between w-100">
+                        <div class="card-option character">
+                            <img src="assets/img/icons/niño-icon2.png" data-option-name="character" data-option-value="mouse" alt="" style="object-fit: contain;">
+                        </div>
+
+                        <div class="card-option character">
+                            <img src="assets/img/icons/monstruo-icon2.png" data-option-name="character" data-option-value="police_man" alt="" style="object-fit: contain;">
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="step">
+
+                    <div class="title map mb-5"></div>
+
+                    <div class="d-flex justify-content-between w-100">
+                        <div class="card-option map">
+                            <img src="assets/img/banners/kitchen2.png" data-option-name="map" data-option-value="cocina" alt="">
+                        </div>
+
+                        <div class="card-option map">
+                            <img src="assets/img/banners/room2.png" data-option-name="map" data-option-value="restaurante" alt="">
+                        </div>
+
+                        <div class="card-option map">
+                            <img src="assets/img/banners/sala2.png" data-option-name="map" data-option-value="estacionamiento" alt="">
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="step">
+
+                    <div class="title difficulty mb-5"></div>
+
+                    <div class="d-flex justify-content-between w-100">
+                        <div class="card-option difficulty">
+                            <img src="assets/img/banners/easy-difficulty2.png" data-option-name="difficulty" data-option-value="fácil" alt="">
+                        </div>
+
+                        <div class="card-option difficulty">
+                            <img src="assets/img/banners/hard-difficulty2.png" data-option-name="difficulty" data-option-value="difícil" alt="">
+                        </div>
+                    </div>
+
+                </div>
+            </form>
+
+        </div>
+
+    </div>
+
+    <!-- <script type="module" src="js/firebase/check-auth.js"></script> -->
+
+    <!-- JQuery 3.6.3 -->
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+
+    <!-- Game Options JS -->
+    <!-- <script type="module" src="js/game-options.js"></script> -->
+
+</body>
+</html>

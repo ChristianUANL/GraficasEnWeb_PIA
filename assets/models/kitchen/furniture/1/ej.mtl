@@ -1,0 +1,40 @@
+newmtl green_kitchen3_CounterFBXASC032cornerSG
+illum 4
+Kd 0.70 0.80 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.17 0.20 0.12
+Ns 23.00
+newmtl green_kitchen3_CounterFBXASC032cornerSG2
+illum 4
+Kd 1.00 0.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.17 0.11
+Ns 23.00
+newmtl green_kitchen3_JarSG
+illum 4
+Kd 0.13 0.65 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.16 0.25
+Ns 23.00
+newmtl green_kitchen3_JarSG1
+illum 4
+Kd 1.00 0.14 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.03 0.03
+Ns 23.00
+newmtl green_kitchen3_SucculentSG
+illum 4
+Kd 0.28 0.75 0.09
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.07 0.19 0.02
+Ns 23.00

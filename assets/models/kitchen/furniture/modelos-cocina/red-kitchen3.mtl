@@ -1,0 +1,1457 @@
+newmtl kitchen:kitchen:kitchen:CounterFBXASC032cornerSG
+illum 4
+Kd 0.70 0.80 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.17 0.20 0.12
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:CounterFBXASC032cornerSG1
+illum 4
+Kd 1.00 0.68 0.45
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.17 0.11
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:CounterFBXASC032withFBXASC032sinkSG
+illum 4
+Kd 0.24 0.24 0.24
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.06 0.06
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:FloorFBXASC032tileSG
+illum 4
+Kd 0.45 0.70 0.48
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.11 0.18 0.12
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:FloorSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 34.00
+newmtl kitchen:kitchen:kitchen:FridgeSG
+illum 4
+Kd 0.66 1.00 0.19
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.17 0.25 0.05
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:FridgeSG1
+illum 4
+Kd 0.44 0.44 0.44
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:JarSG
+illum 4
+Kd 0.13 0.65 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.16 0.25
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:JarSG1
+illum 4
+Kd 1.00 0.14 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.03 0.03
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:JarSG2
+illum 4
+Kd 0.30 1.00 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.07 0.25 0.03
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:MilkFBXASC032cartoonSG
+illum 4
+Kd 0.62 0.90 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.15 0.22 0.25
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:MugSG
+illum 4
+Kd 0.08 0.04 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.01
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:SucculentSG
+illum 4
+Kd 0.28 0.75 0.09
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.07 0.19 0.02
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:TableSG
+illum 4
+Kd 1.00 0.53 0.23
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.13 0.06
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:WoodFBXASC032jarSG
+illum 4
+Kd 1.00 0.33 0.11
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.08 0.03
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:Cabinet_Back_AFBXASC046005SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Furniture_basecolor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:Cabinet_FrontGlass_BFBXASC046005SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 0.36 0.36 0.36
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:CannaSG
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:CannaSG1
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:CannaSG2
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:CannaSG3
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:FloorSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Tiles.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 78.75
+newmtl kitchen:kitchen:kitchen:esc_kitchen:FriziderFBXASC032COOLFBXASC032HEADFBXASC032400FBXASC032LTFBXASC032LOT2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:FriziderFBXASC032COOLFBXASC032HEADFBXASC032400FBXASC032LTFBXASC032LOT2SG1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:FriziderFBXASC032COOLFBXASC032HEADFBXASC032400FBXASC032LTFBXASC032LOT2SG2
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:FriziderFBXASC032COOLFBXASC032HEADFBXASC032400FBXASC032LTFBXASC032LOT2SG3
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:LavaFBXASC045loicasFBXASC032IKEAFBXASC032BoholmenFBXASC032201FBXASC046157FBXASC04626SG
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:MirrorPOSFBXASC0322FBXASC0463FBXASC032kuhinjaFBXASC032bocnaFBXASC032stranicaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:MirrorPOSFBXASC0322FBXASC0463FBXASC032kuhinjaFBXASC032bocnaFBXASC032stranicaSG1
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:MirrorPOSFBXASC0322FBXASC0465FBXASC032kuhinjaFBXASC032bocnaFBXASC032stranicaFBXASC0452SG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:MirrorPOSFBXASC0322FBXASC0465FBXASC032kuhinjaFBXASC032bocnaFBXASC032stranicaFBXASC0453SG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032dihtFBXASC032lajsnaSG
+illum 4
+Kd 0.52 0.52 0.52
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032donjaFBXASC032plocaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032kuhinjaFBXASC032bocnaFBXASC032stranicaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032kuhinjaFBXASC032bocnaFBXASC032stranicaSG1
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032kuhinjaFBXASC032radnaFBXASC032plocaSG
+illum 4
+Kd 0.52 0.52 0.52
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032lesonitSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032policaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032policaSG1
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032soklaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032srednjaFBXASC032plocaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032ukrucenje1SG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032vrataSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032vrataSG1
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032vrataSG2
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0463FBXASC032vrataSG3
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032dihtFBXASC032lajsnaSG
+illum 4
+Kd 0.52 0.52 0.52
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032bocnaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032bocnaSG1
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032bocnaSG2
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032bocnaSG3
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032bocnaSG4
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032bocnaSG5
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032bocnaSG6
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032bocnaSG7
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032dnoSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032dnoSG1
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032dnoSG2
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032dnoSG3
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032prednjaFBXASC032maskaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032prednjaFBXASC032maskaSG1
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032prednjaFBXASC032maskaSG2
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032prednjaFBXASC032maskaSG3
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032prednjaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032prednjaSG1
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032prednjaSG2
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032prednjaSG3
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032prednjaSG4
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032prednjaSG5
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032prednjaSG6
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032fiokaFBXASC032prednjaSG7
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032kuhinjskiFBXASC032elementFBXASC032gornjaFBXASC032plocaSG
+illum 4
+Kd 0.52 0.52 0.52
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032lesonitSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032soklaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032ukrucenjeFBXASC0321SG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0464FBXASC032ukrucenjeFBXASC0322SG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032kuhinjaFBXASC032bocnaFBXASC032stranicaFBXASC0453SG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032kuhinjaFBXASC032bocnaFBXASC032stranicaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032kuhinjaFBXASC032donjaFBXASC032stranicaFBXASC0451SG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032kuhinjaFBXASC032donjaFBXASC032stranicaFBXASC0452SG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032lesonitSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032lesonitSG1
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032policaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032policaSG1
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032policaSG2
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032policaSG3
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032policaSG4
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032policaSG5
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032policaSG6
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032policaSG7
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032srednjaFBXASC032stranicaFBXASC0452SG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032srednjaFBXASC032stranicaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032viseciFBXASC032kuhinjskiFBXASC032elementFBXASC032gornjaFBXASC032plovaFBXASC0451SG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032viseciFBXASC032kuhinjskiFBXASC032elementFBXASC032gornjaFBXASC032plovaFBXASC0452SG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032vrataSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032vrataSG1
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032vrataSG2
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032vrataSG3
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032vrataSG4
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032vrataSG5
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032vrataSG6
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POSFBXASC0322FBXASC0465FBXASC032vrataSG7
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:POsFBXASC0322FBXASC0464FBXASC032donjaFBXASC032plovaSG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:Part2SG
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:SinkFBXASC046001SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Material_Base_color.png
+bump  -bm -0.120482 Material_Normal_OpenGL.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 34.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:TableSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LowPolyKitchen.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:corpoFBXASC032miscelatoreSG
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:corpoFBXASC032miscelatoreSG1
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:corpoFBXASC032miscelatoreSG2
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:corpoFBXASC032miscelatoreSG3
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:corpoFBXASC032miscelatoreSG4
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:corpoFBXASC032miscelatoreSG5
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:corpoFBXASC032miscelatoreSG6
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG3
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG4
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG5
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG6
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG7
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG8
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG9
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG10
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG11
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG12
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG13
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG14
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG15
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG16
+illum 4
+Kd 0.33 0.70 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG17
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG19
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG20
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG21
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG22
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG23
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG24
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG25
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG26
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG27
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG28
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal_texture.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG30
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal_texture.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG32
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG33
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal_texture.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG34
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG35
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal_texture.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:elektricniFBXASC032sporetFBXASC032LOT2SG36
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:levaFBXASC032miscelatoreSG
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG2
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG3
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG4
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG5
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG6
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG7
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG8
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG9
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG10
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG11
+illum 4
+Kd 0.01 0.36 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG12
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG13
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG14
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG15
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG16
+illum 4
+Kd 0.60 0.02 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:microwaveSG17
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG1
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG2
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG3
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG4
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG5
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG6
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG7
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG8
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG9
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG10
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG11
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG12
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl kitchen:kitchen:kitchen:esc_kitchen:rucicaFBXASC032stolaFBXASC0321SG13
+illum 4
+Kd 0.62 0.59 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00

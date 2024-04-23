@@ -1,0 +1,139 @@
+
+form.step-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5rem; 
+}
+
+@media screen and (max-width: 767.9px) {
+
+    form.step-form {
+        padding: 5rem 1.2rem 2rem 1.2rem; 
+    }
+    
+}
+
+.step {
+    display: none;
+    width: 100%;
+    padding: 0 2.9rem 3rem 2.9rem;
+}
+
+.step.active {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.step-form-controls {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin-top: 3rem;
+}
+
+.buttonPlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 8rem;
+    height: 8rem;
+    text-decoration: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    border: 0;
+    background-image: url(../assets/img/components/button-play.png);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+}
+
+.buttonPlay:hover {
+    cursor: pointer;
+    background-image: url(../assets/img/components/button-play-hover.png);
+}
+
+.buttonPlay:focus, .buttonPlay:active {
+    cursor: pointer;
+    color: #ffffffa4;
+    background-image: url(../assets/img/components/button-play-focus.png);
+}
+
+.buttonReload {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 8rem;
+    height: 8rem;
+    text-decoration: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    border: 0;
+    background-image: url(../assets/img/components/button-reload.png);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+}
+
+.buttonReload:hover {
+    cursor: pointer;
+    background-image: url(../assets/img/components/button-reload-hover.png);
+}
+
+.buttonReload:focus, .buttonReload:active {
+    cursor: pointer;
+    color: #ffffffa4;
+    background-image: url(../assets/img/components/button-reload-focus.png);
+}
+
+.buttonSettings {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 8rem;
+    height: 8rem;
+    text-decoration: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    border: 0;
+    background-image: url(../assets/img/components/button-settings.png);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+}
+
+.buttonSettings:hover {
+    cursor: pointer;
+    background-image: url(../assets/img/components/button-settings-hover.png);
+}
+
+.buttonSettings:focus, .buttonSettings:active {
+    cursor: pointer;
+    color: #ffffffa4;
+    background-image: url(../assets/img/components/button-settings-focus.png);
+}
+
+.pause-box{
+    background-image: url(../assets/img/backgrounds/bg-general.png);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    
+    /* min-height: 100%; */
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-clip: padding-box;
+}

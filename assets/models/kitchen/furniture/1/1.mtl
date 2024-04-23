@@ -1,0 +1,139 @@
+newmtl green_kitchen3_CounterFBXASC032cornerSG
+illum 4
+Kd 0.70 0.80 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.17 0.20 0.12
+Ns 23.00
+newmtl green_kitchen3_CounterFBXASC032cornerSG2
+illum 4
+Kd 1.00 0.68 0.45
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.17 0.11
+Ns 23.00
+newmtl green_kitchen3_JarSG
+illum 4
+Kd 0.13 0.65 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.16 0.25
+Ns 23.00
+newmtl green_kitchen3_JarSG1
+illum 4
+Kd 1.00 0.14 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.03 0.03
+Ns 23.00
+newmtl green_kitchen3_SucculentSG
+illum 4
+Kd 0.28 0.75 0.09
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.07 0.19 0.02
+Ns 23.00
+newmtl kitchen_pantry_Material_047
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pantry_bottle.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl kitchen_pantry_Material_048
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pantry_body.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl kitchen_pantry_Material_049
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pantry_shelf.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl kitchen_pantry_Material_050
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pantry_clutter.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl kitchen_pantry_Material_051
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+map_Kd pantry_door.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl kitchen_pantry_Material_052
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pantry_knob.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl kitchen_pantry_Material_053
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pantry_china_cup.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl kitchen_pantry_Material_057
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd -s_0.3_0.3_pantry_shelf.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl kitchen_pantry_Material_060
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pantry_wallpaper.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl kitchen_pantry_Material_064
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pantry_china_saucer.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl kitchen_pantry_Material_066
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.10 0.10 0.10
+map_Kd pantry_glass.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
